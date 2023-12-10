@@ -1,0 +1,16 @@
+D:\Vezeeta\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Vezeeta\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Vezeeta\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Vezeeta\Repositories\bin\Debug\net8.0\Domain.dll
+D:\Vezeeta\Repositories\bin\Debug\net8.0\Domain.pdb
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Vezeeta\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Vezeeta\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Vezeeta\Repositories\obj\Debug\net8.0\ref\Repositories.dll
