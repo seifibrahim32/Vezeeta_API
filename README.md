@@ -1,3 +1,3 @@
 # Vezeeta-Backend
 
-On Maintenance....
+Created a mock project for doctor reservation for Algoriza internship program.
