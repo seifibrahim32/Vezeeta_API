@@ -6,6 +6,6 @@ Created a mock project for doctor reservation for Algoriza internship program.
 
 - .NET +7
 
-_ MS SQL Server
+- MS SQL Server
 
-_ Entity Framework
+- Entity Framework Core
